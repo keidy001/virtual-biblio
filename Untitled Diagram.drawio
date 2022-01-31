@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-31T14:53:16.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="WgRWBmWrNk4z3xAQm1c-" version="16.5.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-31T14:53:28.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="pdUf6kgWsL41rjTxUtvV" version="16.5.2" type="github" pages="6">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -319,9 +319,6 @@
             <mxPoint x="100" y="250" as="sourcePoint" />
             <mxPoint x="260" y="145" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="3SVzgNHvqBdpkcB7fKs5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3SVzgNHvqBdpkcB7fKs5-1" source="3SVzgNHvqBdpkcB7fKs5-3" target="3SVzgNHvqBdpkcB7fKs5-3">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3SVzgNHvqBdpkcB7fKs5-16" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="3SVzgNHvqBdpkcB7fKs5-1">
           <mxGeometry width="80" relative="1" as="geometry">
