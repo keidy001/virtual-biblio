@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T01:36:47.227Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="jHzrek4u-H7iJIR9QaKI" version="16.5.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-02-01T01:40:10.804Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="rRVx7CbBEjoN5w3_o9a_" version="16.5.2" type="github" pages="10">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="828" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -707,13 +707,16 @@
         <mxCell id="CkZDXd__DL19NyH7d1Hy-0" />
         <mxCell id="CkZDXd__DL19NyH7d1Hy-1" parent="CkZDXd__DL19NyH7d1Hy-0" />
         <mxCell id="CkZDXd__DL19NyH7d1Hy-2" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="CkZDXd__DL19NyH7d1Hy-1">
-          <mxGeometry x="120" y="310" width="40" height="510" as="geometry" />
+          <mxGeometry x="120" y="310" width="45" height="510" as="geometry" />
         </mxCell>
         <mxCell id="CkZDXd__DL19NyH7d1Hy-5" value="Demande d&#39;ajout un livre" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="CkZDXd__DL19NyH7d1Hy-2" target="CkZDXd__DL19NyH7d1Hy-4">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="10" y="80" as="sourcePoint" />
             <mxPoint x="90" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pKTFUx6iNAAeKPVZYtbO-1" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CkZDXd__DL19NyH7d1Hy-2">
+          <mxGeometry x="-5" y="30" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CkZDXd__DL19NyH7d1Hy-3" value="DB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="CkZDXd__DL19NyH7d1Hy-1">
           <mxGeometry x="400" y="310" width="100" height="510" as="geometry" />
@@ -811,13 +814,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xUAnNUFrKO3mkLWEUxDa-24" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="CkZDXd__DL19NyH7d1Hy-1">
-          <mxGeometry x="180" y="1480" width="40" height="510" as="geometry" />
+          <mxGeometry x="180" y="1480" width="50" height="510" as="geometry" />
         </mxCell>
         <mxCell id="xUAnNUFrKO3mkLWEUxDa-25" value="Demande de supprimer un livre" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="xUAnNUFrKO3mkLWEUxDa-24" target="xUAnNUFrKO3mkLWEUxDa-30">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="10" y="80" as="sourcePoint" />
             <mxPoint x="90" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pKTFUx6iNAAeKPVZYtbO-0" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xUAnNUFrKO3mkLWEUxDa-24">
+          <mxGeometry y="30" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xUAnNUFrKO3mkLWEUxDa-26" value="DB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="CkZDXd__DL19NyH7d1Hy-1">
           <mxGeometry x="460" y="1480" width="100" height="510" as="geometry" />
@@ -857,7 +863,7 @@
             <mxPoint x="260" y="1600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xUAnNUFrKO3mkLWEUxDa-34" value="Information d&#39;ajout saisisen" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="CkZDXd__DL19NyH7d1Hy-1">
+        <mxCell id="xUAnNUFrKO3mkLWEUxDa-34" value="Soumettre les informations" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="CkZDXd__DL19NyH7d1Hy-1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="190" y="1650" as="sourcePoint" />
             <mxPoint x="339.5" y="1650" as="targetPoint" />
