@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T01:36:04.321Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="v4C-G1xdRX2gjlu6KKOi" version="16.5.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-02-01T01:36:47.227Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="jHzrek4u-H7iJIR9QaKI" version="16.5.2" type="github" pages="10">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="828" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1144,6 +1144,9 @@
         </mxCell>
         <mxCell id="sQX8qvAqr8i3GRXRT5yV-42" value="AFFICHER LES DETAILS DU LIVRE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jpOOcEGLBYu0j73fR9cH-1">
           <mxGeometry x="15" y="565" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sQX8qvAqr8i3GRXRT5yV-45" value="Modifier un livre" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jpOOcEGLBYu0j73fR9cH-1">
+          <mxGeometry x="130" y="20" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
