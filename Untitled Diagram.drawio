@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T01:35:16.096Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="GVp57b0LbyM7v4_FE23M" version="16.5.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-02-01T01:36:04.321Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="v4C-G1xdRX2gjlu6KKOi" version="16.5.2" type="github" pages="10">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="828" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -923,7 +923,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Rp83OrqaAuYfuTgc8CGj" name="Page-10">
+  <diagram id="Rp83OrqaAuYfuTgc8CGj" name="Modifier un livre">
     <mxGraphModel dx="975" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jpOOcEGLBYu0j73fR9cH-0" />
