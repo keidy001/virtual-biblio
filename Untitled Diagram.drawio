@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T12:43:13.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="isIrMg7ili840QGrXhEj" version="16.5.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-02-03T14:40:33.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="H7xrn9bVrsHt5ycH3Lps" version="16.5.3" type="github" pages="17">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
-    <mxGraphModel dx="868" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,7 +93,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="boD-_mkQj5iGZCtVcoFL" name="Gestion des utilisateus">
-    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="onjIotjIPkcrtbH41ogr-0" />
         <mxCell id="onjIotjIPkcrtbH41ogr-1" parent="onjIotjIPkcrtbH41ogr-0" />
@@ -105,9 +105,6 @@
         </mxCell>
         <mxCell id="onjIotjIPkcrtbH41ogr-4" value="Lister utilisateurs" style="ellipse;whiteSpace=wrap;html=1;" parent="onjIotjIPkcrtbH41ogr-1" vertex="1">
           <mxGeometry x="270" y="120" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="onjIotjIPkcrtbH41ogr-6" value="Réinitialiser mot de passe&amp;nbsp; utilisateur" style="ellipse;whiteSpace=wrap;html=1;" parent="onjIotjIPkcrtbH41ogr-1" vertex="1">
-          <mxGeometry x="273.75" y="250" width="172.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="onjIotjIPkcrtbH41ogr-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="onjIotjIPkcrtbH41ogr-1" source="onjIotjIPkcrtbH41ogr-2" target="onjIotjIPkcrtbH41ogr-4" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -121,10 +118,10 @@
             <mxPoint x="350" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="onjIotjIPkcrtbH41ogr-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="onjIotjIPkcrtbH41ogr-1" source="onjIotjIPkcrtbH41ogr-2" target="onjIotjIPkcrtbH41ogr-6" edge="1">
+        <mxCell id="onjIotjIPkcrtbH41ogr-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="onjIotjIPkcrtbH41ogr-1" source="onjIotjIPkcrtbH41ogr-2" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="330" y="210" as="sourcePoint" />
-            <mxPoint x="490" y="210" as="targetPoint" />
+            <mxPoint x="273.75" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="onjIotjIPkcrtbH41ogr-10" value="Authentification" style="ellipse;whiteSpace=wrap;html=1;" parent="onjIotjIPkcrtbH41ogr-1" vertex="1">
@@ -142,9 +139,9 @@
             <mxPoint x="655" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="onjIotjIPkcrtbH41ogr-14" value="Include" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="onjIotjIPkcrtbH41ogr-1" source="onjIotjIPkcrtbH41ogr-6" target="onjIotjIPkcrtbH41ogr-10" edge="1">
+        <mxCell id="onjIotjIPkcrtbH41ogr-14" value="Include" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="onjIotjIPkcrtbH41ogr-1" target="onjIotjIPkcrtbH41ogr-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="260" as="sourcePoint" />
+            <mxPoint x="446.25" y="270" as="sourcePoint" />
             <mxPoint x="635" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -233,7 +230,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uu8xJiqCrF2lxJOAS2xF" name="Profile">
-    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ojXqoX_SzWD1fo40XAp5-0" />
         <mxCell id="ojXqoX_SzWD1fo40XAp5-1" parent="ojXqoX_SzWD1fo40XAp5-0" />
@@ -298,6 +295,21 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="392.5" as="sourcePoint" />
             <mxPoint x="693.1801948466052" y="467.32233047033617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gAK7edwNo7pygB9mT5nE-0" value="Réinitialiser mot de passe&amp;nbsp; utilisateur" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ojXqoX_SzWD1fo40XAp5-1">
+          <mxGeometry x="275.25" y="530" width="172.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gAK7edwNo7pygB9mT5nE-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ojXqoX_SzWD1fo40XAp5-1" source="ZPEZTPA9aEo0oME1b4ie-0" target="gAK7edwNo7pygB9mT5nE-0">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="130" y="462.84534877247677" as="sourcePoint" />
+            <mxPoint x="294.629999999999" y="527" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gAK7edwNo7pygB9mT5nE-2" value="Include" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ojXqoX_SzWD1fo40XAp5-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="446.48000000000127" y="545.81" as="sourcePoint" />
+            <mxPoint x="620" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
