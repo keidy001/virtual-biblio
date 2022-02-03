@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T10:21:47.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="jql5shV6oul938nv_tGC" version="16.5.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-02-03T10:23:52.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="OvE3ND3MzBZphRPPSiK-" version="16.5.2" type="github" pages="16">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1355,19 +1355,19 @@
         <mxCell id="4Z9tdXA7MmodNgVIo9GY-8" value="Système" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" vertex="1">
           <mxGeometry x="290" y="1480" width="100" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="4Z9tdXA7MmodNgVIo9GY-11" value="2 Demande de confirmation" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" edge="1">
+        <mxCell id="4Z9tdXA7MmodNgVIo9GY-11" value="3 Demande de confirmation" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="1640" as="sourcePoint" />
             <mxPoint x="204.5" y="1640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Z9tdXA7MmodNgVIo9GY-12" value="3 Confirmer suppression" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" source="4Z9tdXA7MmodNgVIo9GY-2" edge="1">
+        <mxCell id="4Z9tdXA7MmodNgVIo9GY-12" value="4 Confirmer suppression" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" source="4Z9tdXA7MmodNgVIo9GY-2" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="210" y="1670" as="sourcePoint" />
             <mxPoint x="339.5" y="1670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Z9tdXA7MmodNgVIo9GY-14" value="4 Requête de suppression" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" edge="1">
+        <mxCell id="4Z9tdXA7MmodNgVIo9GY-14" value="5 Requête de suppression" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="340" y="1710" as="sourcePoint" />
             <mxPoint x="509.5" y="1710" as="targetPoint" />
@@ -1379,13 +1379,13 @@
         <mxCell id="4Z9tdXA7MmodNgVIo9GY-16" value="Correcte" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="4Z9tdXA7MmodNgVIo9GY-1" vertex="1">
           <mxGeometry x="215" y="1810" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4Z9tdXA7MmodNgVIo9GY-17" value="5 Suppression confirmé" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" edge="1">
+        <mxCell id="4Z9tdXA7MmodNgVIo9GY-17" value="6 Suppression confirmé" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="1850" as="sourcePoint" />
             <mxPoint x="340" y="1850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Z9tdXA7MmodNgVIo9GY-18" value="6 Supprimer avec succès" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" target="4Z9tdXA7MmodNgVIo9GY-2" edge="1">
+        <mxCell id="4Z9tdXA7MmodNgVIo9GY-18" value="7 Supprimer avec succès" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" target="4Z9tdXA7MmodNgVIo9GY-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="1870" as="sourcePoint" />
             <mxPoint x="200" y="1870" as="targetPoint" />
@@ -1400,13 +1400,13 @@
         <mxCell id="4Z9tdXA7MmodNgVIo9GY-20" value="Erreur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="4Z9tdXA7MmodNgVIo9GY-1" vertex="1">
           <mxGeometry x="215" y="1910" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4Z9tdXA7MmodNgVIo9GY-21" value="7 Erreur de suppression" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;exitX=0.783;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" edge="1">
+        <mxCell id="4Z9tdXA7MmodNgVIo9GY-21" value="8 Erreur de suppression" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;exitX=0.783;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510.18000000000006" y="1950" as="sourcePoint" />
             <mxPoint x="340" y="1950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Z9tdXA7MmodNgVIo9GY-22" value="8 Essayé une nouvelle fois" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" target="4Z9tdXA7MmodNgVIo9GY-2" edge="1">
+        <mxCell id="4Z9tdXA7MmodNgVIo9GY-22" value="9 Essayé une nouvelle fois" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" target="4Z9tdXA7MmodNgVIo9GY-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="1970" as="sourcePoint" />
             <mxPoint x="200" y="1970" as="targetPoint" />
@@ -1418,10 +1418,10 @@
         <mxCell id="4Z9tdXA7MmodNgVIo9GY-24" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="4Z9tdXA7MmodNgVIo9GY-1" vertex="1">
           <mxGeometry x="160" y="1530" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4Z9tdXA7MmodNgVIo9GY-25" value="Autthentification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="4Z9tdXA7MmodNgVIo9GY-1" vertex="1">
-          <mxGeometry x="230" y="1545" width="100" height="20" as="geometry" />
+        <mxCell id="4Z9tdXA7MmodNgVIo9GY-25" value="1 Autthentification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="4Z9tdXA7MmodNgVIo9GY-1" vertex="1">
+          <mxGeometry x="225" y="1545" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4Z9tdXA7MmodNgVIo9GY-26" value="1 Demande de suppression&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" source="4Z9tdXA7MmodNgVIo9GY-2" edge="1">
+        <mxCell id="4Z9tdXA7MmodNgVIo9GY-26" value="2 Demande de suppression&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" source="4Z9tdXA7MmodNgVIo9GY-2" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="210" y="1610" as="sourcePoint" />
             <mxPoint x="339.5" y="1610" as="targetPoint" />
