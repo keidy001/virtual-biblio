@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T17:02:30.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="9_osOL8trpUUVFcauVW5" version="16.5.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-02-03T17:04:05.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="QbqXvB-6uFu2QLTTNcUd" version="16.5.2" type="github" pages="17">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1016,7 +1016,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DnzW9jvknJKVxAKCAnpG" name="Afficher Nombres visiteurs">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kRRxzdswhvo8ArXT8h3N-0" />
         <mxCell id="kRRxzdswhvo8ArXT8h3N-1" parent="kRRxzdswhvo8ArXT8h3N-0" />
@@ -1086,7 +1086,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZMP8K5DQwgJQZkQVJiQ6" name="Rechercher livre">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="09jC_oco8F9_qfx0zV9m-0" />
         <mxCell id="09jC_oco8F9_qfx0zV9m-1" parent="09jC_oco8F9_qfx0zV9m-0" />
@@ -1284,7 +1284,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZTJgK9F1ZI0vk4DhesXH" name="Suppression">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="-743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4Z9tdXA7MmodNgVIo9GY-0" />
         <mxCell id="4Z9tdXA7MmodNgVIo9GY-1" parent="4Z9tdXA7MmodNgVIo9GY-0" />
@@ -1394,7 +1394,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ypX8iKLERY4IX5hZBYHJ" name="Acheter un livre">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NTkYE8rJEJ2EjBCxGp71-0" />
         <mxCell id="NTkYE8rJEJ2EjBCxGp71-1" parent="NTkYE8rJEJ2EjBCxGp71-0" />
@@ -1500,7 +1500,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TsjAF1pKEjUTRqfIHtkj" name="Inscription">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="q5OcWaB7sq0tHiFSl4jr-0" />
         <mxCell id="q5OcWaB7sq0tHiFSl4jr-1" parent="q5OcWaB7sq0tHiFSl4jr-0" />
