@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T14:41:02.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="FASWh9wUVQw0Be4e7lEN" version="16.5.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-02-03T14:45:54.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="JaEg2_0B6-74CJgd49HA" version="16.5.3" type="github" pages="17">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -375,7 +375,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2KlWVGTux-m39z74935y" name="Diagramme de classe">
-    <mxGraphModel dx="868" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="O64TJJkuh2EhdNPFUlf2-0" />
         <mxCell id="O64TJJkuh2EhdNPFUlf2-1" parent="O64TJJkuh2EhdNPFUlf2-0" />
@@ -477,7 +477,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p03_-isMEnIX4oiu-s_r" name="Authentification">
-    <mxGraphModel dx="868" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kEE50j-FmvwMQxQkXFjK-0" />
         <mxCell id="kEE50j-FmvwMQxQkXFjK-1" parent="kEE50j-FmvwMQxQkXFjK-0" />
@@ -537,17 +537,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UVdhc_G0UXETGzi8-Osv-22" value="9 message d&#39;erreur" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;" parent="kEE50j-FmvwMQxQkXFjK-1" edge="1">
-          <mxGeometry x="0.1549" relative="1" as="geometry">
-            <mxPoint x="480.5" y="460" as="sourcePoint" />
-            <mxPoint x="290" y="460" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UVdhc_G0UXETGzi8-Osv-23" value="10 Identifiant incorrects" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;" parent="kEE50j-FmvwMQxQkXFjK-1" edge="1">
           <mxGeometry x="0.1549" relative="1" as="geometry">
-            <mxPoint x="294.5" y="506" as="sourcePoint" />
-            <mxPoint x="89.66666666666663" y="506" as="targetPoint" />
+            <mxPoint x="294.5" y="464" as="sourcePoint" />
+            <mxPoint x="89.66666666666663" y="464" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -608,8 +601,8 @@
         <mxCell id="9dXOcJDtuMYt9YcC0aqt-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=11;" parent="kEE50j-FmvwMQxQkXFjK-1" vertex="1">
           <mxGeometry x="290" y="356" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9dXOcJDtuMYt9YcC0aqt-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=11;" parent="kEE50j-FmvwMQxQkXFjK-1" vertex="1">
-          <mxGeometry x="290" y="465" width="10" height="20" as="geometry" />
+        <mxCell id="GOCmgCxPQeu4rhKWytCX-0" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="kEE50j-FmvwMQxQkXFjK-1">
+          <mxGeometry x="20" y="150" width="300" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
