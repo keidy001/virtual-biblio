@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T12:13:02.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="faXNNV_APvEhzbqtqMl7" version="16.5.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-02-03T12:13:18.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="0Aw0USCowoW9z2MwA4sm" version="16.5.2" type="github" pages="17">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1730,8 +1730,8 @@
             <mxPoint x="350" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q5OcWaB7sq0tHiFSl4jr-22" value="Erreure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="q5OcWaB7sq0tHiFSl4jr-1" vertex="1">
-          <mxGeometry x="160" y="400" width="60" height="20" as="geometry" />
+        <mxCell id="q5OcWaB7sq0tHiFSl4jr-22" value="Erreur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="q5OcWaB7sq0tHiFSl4jr-1" vertex="1">
+          <mxGeometry x="165" y="400" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q5OcWaB7sq0tHiFSl4jr-23" value="7 Inscription invalide" style="html=1;verticalAlign=bottom;endArrow=none;rounded=0;startArrow=classic;startFill=1;endFill=0;" parent="q5OcWaB7sq0tHiFSl4jr-1" edge="1">
           <mxGeometry x="-0.04" width="80" relative="1" as="geometry">
