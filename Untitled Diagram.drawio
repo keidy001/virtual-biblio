@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T14:40:55.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="4QDaLWjQsVxYAs83FV5U" version="16.5.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-02-03T14:41:02.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="FASWh9wUVQw0Be4e7lEN" version="16.5.3" type="github" pages="17">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,12 +110,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="330" y="210" as="sourcePoint" />
             <mxPoint x="490" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="onjIotjIPkcrtbH41ogr-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;startArrow=none;" parent="onjIotjIPkcrtbH41ogr-1" source="onjIotjIPkcrtbH41ogr-5" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="330" y="210" as="sourcePoint" />
-            <mxPoint x="350" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="onjIotjIPkcrtbH41ogr-10" value="Authentification" style="ellipse;whiteSpace=wrap;html=1;" parent="onjIotjIPkcrtbH41ogr-1" vertex="1">
