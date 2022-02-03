@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T17:11:10.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="o-kLbwGMgicgzpMik7lj" version="16.5.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-02-03T17:15:12.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="RPEthTA3dKGHYhPSAf_v" version="16.5.2" type="github" pages="17">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1357,7 +1357,7 @@
         <mxCell id="4Z9tdXA7MmodNgVIo9GY-20" value="Erreur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="4Z9tdXA7MmodNgVIo9GY-1" vertex="1">
           <mxGeometry x="215" y="1910" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4Z9tdXA7MmodNgVIo9GY-22" value="9 Essayé une nouvelle fois" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" target="4Z9tdXA7MmodNgVIo9GY-2" edge="1">
+        <mxCell id="4Z9tdXA7MmodNgVIo9GY-22" value="8 Essayé une nouvelle fois" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;" parent="4Z9tdXA7MmodNgVIo9GY-1" target="4Z9tdXA7MmodNgVIo9GY-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="1970" as="sourcePoint" />
             <mxPoint x="200" y="1970" as="targetPoint" />
@@ -1367,7 +1367,7 @@
           <mxGeometry x="80" y="1430" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4Z9tdXA7MmodNgVIo9GY-24" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="4Z9tdXA7MmodNgVIo9GY-1" vertex="1">
-          <mxGeometry x="160" y="1530" width="240" height="50" as="geometry" />
+          <mxGeometry x="160" y="1530" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4Z9tdXA7MmodNgVIo9GY-25" value="1 Autthentification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="4Z9tdXA7MmodNgVIo9GY-1" vertex="1">
           <mxGeometry x="225" y="1545" width="110" height="20" as="geometry" />
