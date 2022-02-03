@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T09:48:40.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="y_6-LFRxMFx5yI41EBdF" version="16.5.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-02-03T09:48:56.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="NDPUPZFdyQ3iNKjBapgU" version="16.5.2" type="github" pages="16">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1426,6 +1426,15 @@
         </mxCell>
         <mxCell id="7snUyW1O7C4sEhIiZfCf-0" value="Suppression" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="4Z9tdXA7MmodNgVIo9GY-1">
           <mxGeometry x="540" y="1710" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7snUyW1O7C4sEhIiZfCf-1" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=11;" vertex="1" parent="4Z9tdXA7MmodNgVIo9GY-1">
+          <mxGeometry x="495" y="2000" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7snUyW1O7C4sEhIiZfCf-2" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=11;" vertex="1" parent="4Z9tdXA7MmodNgVIo9GY-1">
+          <mxGeometry x="325" y="2000" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7snUyW1O7C4sEhIiZfCf-3" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=11;" vertex="1" parent="4Z9tdXA7MmodNgVIo9GY-1">
+          <mxGeometry x="190" y="2000" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
