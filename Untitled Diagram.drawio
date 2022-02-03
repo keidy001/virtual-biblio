@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T14:45:54.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="JaEg2_0B6-74CJgd49HA" version="16.5.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-02-03T14:46:11.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="2qLehSWmSetX5nYUjXJa" version="16.5.3" type="github" pages="17">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -608,7 +608,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eUb4AiREChGTSuMhlvUp" name="Ajouter de livres">
-    <mxGraphModel dx="723" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CkZDXd__DL19NyH7d1Hy-0" />
         <mxCell id="CkZDXd__DL19NyH7d1Hy-1" parent="CkZDXd__DL19NyH7d1Hy-0" />
@@ -739,15 +739,6 @@
             <mxPoint x="689.5" y="820" as="sourcePoint" />
             <mxPoint x="489.5" y="820" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MtSSCni0Ej3gm5sBdxQL-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=11;" parent="CkZDXd__DL19NyH7d1Hy-1" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="688.5" y="913" as="sourcePoint" />
-            <mxPoint x="488.5" y="913" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MtSSCni0Ej3gm5sBdxQL-3" value="7. Message d&#39;erreur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="CkZDXd__DL19NyH7d1Hy-1" vertex="1">
-          <mxGeometry x="539" y="887" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MtSSCni0Ej3gm5sBdxQL-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=11;" parent="CkZDXd__DL19NyH7d1Hy-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
