@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T09:08:34.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="fUcKxmmNoYNNb17oskJW" version="16.5.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-02-03T09:10:18.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="qe5GgjWtNfXrkbEFSYm8" version="16.5.2" type="github" pages="15">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1469,18 +1469,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZTJgK9F1ZI0vk4DhesXH" name="Page-15">
-    <mxGraphModel dx="849" dy="-743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="708" dy="-814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4Z9tdXA7MmodNgVIo9GY-0" />
         <mxCell id="4Z9tdXA7MmodNgVIo9GY-1" parent="4Z9tdXA7MmodNgVIo9GY-0" />
         <mxCell id="4Z9tdXA7MmodNgVIo9GY-2" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="4Z9tdXA7MmodNgVIo9GY-1">
-          <mxGeometry x="180" y="1480" width="50" height="510" as="geometry" />
+          <mxGeometry x="180" y="1480" width="50" height="530" as="geometry" />
         </mxCell>
         <mxCell id="4Z9tdXA7MmodNgVIo9GY-3" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="4Z9tdXA7MmodNgVIo9GY-2">
           <mxGeometry y="30" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4Z9tdXA7MmodNgVIo9GY-4" value="DB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="4Z9tdXA7MmodNgVIo9GY-1">
-          <mxGeometry x="460" y="1480" width="100" height="510" as="geometry" />
+          <mxGeometry x="460" y="1480" width="100" height="530" as="geometry" />
         </mxCell>
         <mxCell id="5GLiJNObSFjY3dvYMs3I-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="4Z9tdXA7MmodNgVIo9GY-4">
           <mxGeometry x="50" y="280" width="10" height="40" as="geometry" />
@@ -1495,7 +1495,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4Z9tdXA7MmodNgVIo9GY-8" value="Système" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="4Z9tdXA7MmodNgVIo9GY-1">
-          <mxGeometry x="290" y="1480" width="100" height="510" as="geometry" />
+          <mxGeometry x="290" y="1480" width="100" height="530" as="geometry" />
         </mxCell>
         <mxCell id="5GLiJNObSFjY3dvYMs3I-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="4Z9tdXA7MmodNgVIo9GY-8">
           <mxGeometry x="50" y="210" width="10" height="30" as="geometry" />
