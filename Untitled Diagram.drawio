@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T12:09:15.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="MvgWWvGOHeCMSgHhIBpo" version="16.5.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-02-03T12:13:02.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="faXNNV_APvEhzbqtqMl7" version="16.5.2" type="github" pages="17">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1696,7 +1696,7 @@
           <mxGeometry x="550" y="80" width="100" height="540" as="geometry" />
         </mxCell>
         <mxCell id="q5OcWaB7sq0tHiFSl4jr-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="q5OcWaB7sq0tHiFSl4jr-4" vertex="1">
-          <mxGeometry x="50" y="270" width="10" height="250" as="geometry" />
+          <mxGeometry x="50" y="270" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q5OcWaB7sq0tHiFSl4jr-18" value="6 Verification" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=0.5;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;" parent="q5OcWaB7sq0tHiFSl4jr-4" source="q5OcWaB7sq0tHiFSl4jr-4" target="q5OcWaB7sq0tHiFSl4jr-17" edge="1">
           <mxGeometry x="0.1755" relative="1" as="geometry">
@@ -1770,6 +1770,21 @@
         </mxCell>
         <mxCell id="6mfkoO3RORGIhLNzL7In-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="q5OcWaB7sq0tHiFSl4jr-1">
           <mxGeometry x="150" y="120" width="10" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="SrRMmSJpLs3-lAzAoQkh-0" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=11;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="q5OcWaB7sq0tHiFSl4jr-1">
+          <mxGeometry x="90" y="240" width="300" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="SrRMmSJpLs3-lAzAoQkh-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=11;fontColor=#000000;" edge="1" parent="q5OcWaB7sq0tHiFSl4jr-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="349.5" y="307" as="sourcePoint" />
+            <mxPoint x="160" y="307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SrRMmSJpLs3-lAzAoQkh-2" value="1. Formulaire incorrect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="q5OcWaB7sq0tHiFSl4jr-1">
+          <mxGeometry x="189" y="284" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SrRMmSJpLs3-lAzAoQkh-3" value="non valide" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#000000;" vertex="1" parent="q5OcWaB7sq0tHiFSl4jr-1">
+          <mxGeometry x="87" y="282" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
