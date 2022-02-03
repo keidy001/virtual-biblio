@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T14:51:03.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="hIlVQCLAo3UK1cECeXHi" version="16.5.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-02-03T14:51:10.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="FAa7RJcYj3rVJkK_a_x0" version="16.5.3" type="github" pages="17">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1429,12 +1429,6 @@
         </mxCell>
         <mxCell id="NTkYE8rJEJ2EjBCxGp71-6" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;width=40;height=15;" parent="NTkYE8rJEJ2EjBCxGp71-1" vertex="1">
           <mxGeometry x="60" y="160" width="270" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="NTkYE8rJEJ2EjBCxGp71-13" value="8 message de validation" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="NTkYE8rJEJ2EjBCxGp71-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="508.5" y="467" as="sourcePoint" />
-            <mxPoint x="298" y="467" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="NTkYE8rJEJ2EjBCxGp71-14" value="9 Achat effectuer avec succèes" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="NTkYE8rJEJ2EjBCxGp71-1" edge="1">
           <mxGeometry relative="1" as="geometry">
