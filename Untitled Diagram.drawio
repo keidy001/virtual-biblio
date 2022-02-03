@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T17:04:36.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="Ah42uisfcB4GfDG_Y1CD" version="16.5.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-02-03T17:08:41.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="zGntthjuRXiWc3EC1t9M" version="16.5.2" type="github" pages="17">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -802,7 +802,7 @@
           <mxGeometry x="293" y="105" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xikGKRONOERMPjMiYBtU-2" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="jpOOcEGLBYu0j73fR9cH-1" vertex="1">
-          <mxGeometry x="180" y="269" width="340" height="60" as="geometry" />
+          <mxGeometry x="180" y="269" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xikGKRONOERMPjMiYBtU-5" value="1 Authentification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="jpOOcEGLBYu0j73fR9cH-1" vertex="1">
           <mxGeometry x="300" y="289" width="110" height="20" as="geometry" />
@@ -854,7 +854,7 @@
         <mxCell id="2IoQFAa0zpq1o7Sd4lUP-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="y0Zslu7m6ld6GDytSrt1-0" vertex="1">
           <mxGeometry x="326" y="45" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2IoQFAa0zpq1o7Sd4lUP-18" value="12 Erreur de modification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="y0Zslu7m6ld6GDytSrt1-0" vertex="1">
+        <mxCell id="2IoQFAa0zpq1o7Sd4lUP-18" value="11 Erreur de modification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="y0Zslu7m6ld6GDytSrt1-0" vertex="1">
           <mxGeometry x="135" y="130" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2IoQFAa0zpq1o7Sd4lUP-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="jpOOcEGLBYu0j73fR9cH-1" edge="1">
@@ -883,8 +883,8 @@
             <mxPoint x="479.25" y="664.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2IoQFAa0zpq1o7Sd4lUP-9" value="9 I" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="jpOOcEGLBYu0j73fR9cH-1" vertex="1">
-          <mxGeometry x="557" y="645" width="30" height="20" as="geometry" />
+        <mxCell id="2IoQFAa0zpq1o7Sd4lUP-9" value="9 Livre modifier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="jpOOcEGLBYu0j73fR9cH-1" vertex="1">
+          <mxGeometry x="522" y="645" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2IoQFAa0zpq1o7Sd4lUP-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="jpOOcEGLBYu0j73fR9cH-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
