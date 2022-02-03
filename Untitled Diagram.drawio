@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T10:23:52.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="OvE3ND3MzBZphRPPSiK-" version="16.5.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-02-03T10:25:48.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="0cGUuw3RJolMk0JyJE_J" version="16.5.2" type="github" pages="16">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1453,7 +1453,7 @@
         <mxCell id="NTkYE8rJEJ2EjBCxGp71-5" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="NTkYE8rJEJ2EjBCxGp71-2" vertex="1">
           <mxGeometry x="-10" y="30" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NTkYE8rJEJ2EjBCxGp71-8" value="1 Demande nbre d&#39;achat" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="NTkYE8rJEJ2EjBCxGp71-2" target="NTkYE8rJEJ2EjBCxGp71-4" edge="1">
+        <mxCell id="NTkYE8rJEJ2EjBCxGp71-8" value="2 Demande nbre d&#39;achat" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="NTkYE8rJEJ2EjBCxGp71-2" target="NTkYE8rJEJ2EjBCxGp71-4" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="20" y="210" as="sourcePoint" />
             <mxPoint x="100" y="210" as="targetPoint" />
@@ -1471,19 +1471,19 @@
         <mxCell id="NTkYE8rJEJ2EjBCxGp71-6" value="Reff" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="NTkYE8rJEJ2EjBCxGp71-1" vertex="1">
           <mxGeometry x="80" y="160" width="460" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NTkYE8rJEJ2EjBCxGp71-7" value="Authentification" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="NTkYE8rJEJ2EjBCxGp71-1" target="NTkYE8rJEJ2EjBCxGp71-4" edge="1">
+        <mxCell id="NTkYE8rJEJ2EjBCxGp71-7" value="1 Authentification" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="NTkYE8rJEJ2EjBCxGp71-1" target="NTkYE8rJEJ2EjBCxGp71-4" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="110" y="210" as="sourcePoint" />
             <mxPoint x="190" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NTkYE8rJEJ2EjBCxGp71-13" value="3 Affichage de liste des achats" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="NTkYE8rJEJ2EjBCxGp71-1" target="NTkYE8rJEJ2EjBCxGp71-4" edge="1">
+        <mxCell id="NTkYE8rJEJ2EjBCxGp71-13" value="4 Affichage de liste des achats" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="NTkYE8rJEJ2EjBCxGp71-1" target="NTkYE8rJEJ2EjBCxGp71-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="410" as="sourcePoint" />
             <mxPoint x="430" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NTkYE8rJEJ2EjBCxGp71-14" value="4 L&#39;interface du nbre des achats afficher" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="NTkYE8rJEJ2EjBCxGp71-1" edge="1">
+        <mxCell id="NTkYE8rJEJ2EjBCxGp71-14" value="5 L&#39;interface du nbre des achats afficher" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="NTkYE8rJEJ2EjBCxGp71-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="450" as="sourcePoint" />
             <mxPoint x="110" y="450" as="targetPoint" />
@@ -1492,7 +1492,7 @@
         <mxCell id="XvJwOhRMXz-Xet3yNApU-0" value="Acheter un livre" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="NTkYE8rJEJ2EjBCxGp71-1" vertex="1">
           <mxGeometry x="145" y="10" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NTkYE8rJEJ2EjBCxGp71-12" value="2 Recuperer&amp;nbsp; le nbre des achats dans bd" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="NTkYE8rJEJ2EjBCxGp71-1" target="NTkYE8rJEJ2EjBCxGp71-3" edge="1">
+        <mxCell id="NTkYE8rJEJ2EjBCxGp71-12" value="3 Recuperer&amp;nbsp; le nbre des achats dans bd" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="NTkYE8rJEJ2EjBCxGp71-1" target="NTkYE8rJEJ2EjBCxGp71-3" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="300" y="350" as="sourcePoint" />
             <mxPoint x="380" y="360" as="targetPoint" />
