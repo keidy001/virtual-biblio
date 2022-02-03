@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T16:59:19.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="9bFo_6SgnHKrvI-PxzDZ" version="16.5.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-02-03T17:02:30.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="9_osOL8trpUUVFcauVW5" version="16.5.2" type="github" pages="17">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -802,7 +802,7 @@
           <mxGeometry x="293" y="105" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xikGKRONOERMPjMiYBtU-2" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="jpOOcEGLBYu0j73fR9cH-1" vertex="1">
-          <mxGeometry x="180" y="269" width="500" height="60" as="geometry" />
+          <mxGeometry x="180" y="269" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xikGKRONOERMPjMiYBtU-5" value="1 Authentification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="jpOOcEGLBYu0j73fR9cH-1" vertex="1">
           <mxGeometry x="300" y="289" width="110" height="20" as="geometry" />
@@ -995,12 +995,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410.5" y="409.5" as="sourcePoint" />
             <mxPoint x="248" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SgEFic7Vw_e75q9YWRES-36" value="6 Message d&#39;erreur" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;exitX=0.15;exitY=0.821;exitDx=0;exitDy=0;exitPerimeter=0;" parent="SgEFic7Vw_e75q9YWRES-1" source="SgEFic7Vw_e75q9YWRES-26" target="SgEFic7Vw_e75q9YWRES-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="588" y="490" as="sourcePoint" />
-            <mxPoint x="508" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SgEFic7Vw_e75q9YWRES-37" value="7 Affichage du message d&#39;erreur" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;entryX=1;entryY=0.942;entryDx=0;entryDy=0;entryPerimeter=0;" parent="SgEFic7Vw_e75q9YWRES-1" target="SgEFic7Vw_e75q9YWRES-38" edge="1">
