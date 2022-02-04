@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T23:46:20.087Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="O64RwlQlFuyMC7CsIeBe" version="16.5.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-02-04T23:46:39.970Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="MGzwKnZD9ubrFUrOe3hO" version="16.5.2" type="github" pages="16">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="975" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1394,7 +1394,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ypX8iKLERY4IX5hZBYHJ" name="Acheter un livre">
-    <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NTkYE8rJEJ2EjBCxGp71-0" />
         <mxCell id="NTkYE8rJEJ2EjBCxGp71-1" parent="NTkYE8rJEJ2EjBCxGp71-0" />
@@ -1425,7 +1425,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NTkYE8rJEJ2EjBCxGp71-6" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;width=40;height=15;" parent="NTkYE8rJEJ2EjBCxGp71-1" vertex="1">
-          <mxGeometry x="60" y="160" width="270" height="50" as="geometry" />
+          <mxGeometry x="60" y="160" width="500" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NTkYE8rJEJ2EjBCxGp71-14" value="9 Achat effectuer avec succèes" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="NTkYE8rJEJ2EjBCxGp71-1" edge="1">
           <mxGeometry relative="1" as="geometry">
