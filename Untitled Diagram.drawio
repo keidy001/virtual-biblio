@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T23:44:27.186Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="sn3GUkGPCgG83gB7NXix" version="16.5.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-02-04T23:44:40.724Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="ONJCVPE6nRn-wfh409Sd" version="16.5.2" type="github" pages="16">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="975" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -905,7 +905,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ic4bhdaogLrd-CCU8MOS" name="Recfercher Document">
-    <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SgEFic7Vw_e75q9YWRES-0" />
         <mxCell id="SgEFic7Vw_e75q9YWRES-1" parent="SgEFic7Vw_e75q9YWRES-0" />
@@ -1009,7 +1009,7 @@
         <mxCell id="SgEFic7Vw_e75q9YWRES-47" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Rechercher&amp;nbsp; Un livre&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="SgEFic7Vw_e75q9YWRES-1" vertex="1">
           <mxGeometry x="368" y="30" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mRnLff6gwpSFknrQMzS0-0" value="Utilisateur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SgEFic7Vw_e75q9YWRES-1">
+        <mxCell id="mRnLff6gwpSFknrQMzS0-0" value="Utilisateur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="SgEFic7Vw_e75q9YWRES-1" vertex="1">
           <mxGeometry x="195" y="130" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
