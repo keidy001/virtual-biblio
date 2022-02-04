@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T23:45:12.778Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="z1_LlKJxm-yLT9MBBwzP" version="16.5.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-02-04T23:45:32.723Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="1SZibTXt_xsVCH2UBHSH" version="16.5.2" type="github" pages="16">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="975" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1199,7 +1199,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ifyxnMew8Z4N1m1J4LyW" name="Detail livre">
-    <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YtdimHOfhwZcCqG-DYiQ-0" />
         <mxCell id="YtdimHOfhwZcCqG-DYiQ-1" parent="YtdimHOfhwZcCqG-DYiQ-0" />
@@ -1245,7 +1245,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YtdimHOfhwZcCqG-DYiQ-24" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;width=50;height=20;" parent="YtdimHOfhwZcCqG-DYiQ-1" vertex="1">
-          <mxGeometry x="60" y="670" width="230" height="40" as="geometry" />
+          <mxGeometry x="60" y="670" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YtdimHOfhwZcCqG-DYiQ-25" value="1 Authentification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="YtdimHOfhwZcCqG-DYiQ-1" vertex="1">
           <mxGeometry x="140" y="680" width="110" height="20" as="geometry" />
