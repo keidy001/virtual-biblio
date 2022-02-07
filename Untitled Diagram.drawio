@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T14:52:42.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Q6XDzGt0OTob9tsidNXz" version="16.5.3" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-02-07T14:54:07.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Xzz520q7SXFf8FTweqgA" version="16.5.3" type="github" pages="18">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1768,7 +1768,7 @@
           <mxGeometry x="35" y="670" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DSdyk2hZizEV0HxiutjO-9" value="Système" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="DSdyk2hZizEV0HxiutjO-1" vertex="1">
-          <mxGeometry x="811" y="180" width="100" height="710" as="geometry" />
+          <mxGeometry x="811" y="180" width="280" height="710" as="geometry" />
         </mxCell>
         <mxCell id="DSdyk2hZizEV0HxiutjO-10" value="Authentification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="DSdyk2hZizEV0HxiutjO-9" vertex="1">
           <mxGeometry x="-125" y="80" width="100" height="20" as="geometry" />
@@ -1790,6 +1790,9 @@
         </mxCell>
         <mxCell id="DSdyk2hZizEV0HxiutjO-14" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;" parent="DSdyk2hZizEV0HxiutjO-9" vertex="1">
           <mxGeometry x="35" y="670" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSdyk2hZizEV0HxiutjO-35" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="DSdyk2hZizEV0HxiutjO-9" vertex="1">
+          <mxGeometry x="-200" y="50" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DSdyk2hZizEV0HxiutjO-15" value="2. Envoie&amp;nbsp; interface d&#39;ajout" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.957;entryY=0.126;entryDx=0;entryDy=0;entryPerimeter=0;" parent="DSdyk2hZizEV0HxiutjO-1" target="DSdyk2hZizEV0HxiutjO-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1879,9 +1882,6 @@
         </mxCell>
         <mxCell id="DSdyk2hZizEV0HxiutjO-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" parent="DSdyk2hZizEV0HxiutjO-1" vertex="1">
           <mxGeometry x="857" y="772.53" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DSdyk2hZizEV0HxiutjO-35" value="Ref" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="DSdyk2hZizEV0HxiutjO-1" vertex="1">
-          <mxGeometry x="611" y="230" width="480" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
