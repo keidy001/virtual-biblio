@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T14:31:21.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="9IpQ2QBg7o5v4jc5gmgy" version="16.5.3" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-02-07T14:31:10.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="0zqS-qiEALuoFfhVinmX" version="16.5.3" type="github" pages="16">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
-    <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,7 +93,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="boD-_mkQj5iGZCtVcoFL" name="Gestion des utilisateus">
-    <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="onjIotjIPkcrtbH41ogr-0" />
         <mxCell id="onjIotjIPkcrtbH41ogr-1" parent="onjIotjIPkcrtbH41ogr-0" />
@@ -140,7 +140,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ps5slC9u4Xr7oHksv9Us" name="Gérer sont panier">
-    <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3SVzgNHvqBdpkcB7fKs5-0" />
         <mxCell id="3SVzgNHvqBdpkcB7fKs5-1" parent="3SVzgNHvqBdpkcB7fKs5-0" />
@@ -212,7 +212,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uu8xJiqCrF2lxJOAS2xF" name="Profile">
-    <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ojXqoX_SzWD1fo40XAp5-0" />
         <mxCell id="ojXqoX_SzWD1fo40XAp5-1" parent="ojXqoX_SzWD1fo40XAp5-0" />
@@ -298,7 +298,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iI7A_aqlJGiSVeUK1Wx8" name="livre">
-    <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bhY5xX0Ac1MCx8FEVOBW-0" />
         <mxCell id="bhY5xX0Ac1MCx8FEVOBW-1" parent="bhY5xX0Ac1MCx8FEVOBW-0" />
@@ -375,7 +375,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2KlWVGTux-m39z74935y" name="Diagramme de classe">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="O64TJJkuh2EhdNPFUlf2-0" />
         <mxCell id="O64TJJkuh2EhdNPFUlf2-1" parent="O64TJJkuh2EhdNPFUlf2-0" />
@@ -500,7 +500,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p03_-isMEnIX4oiu-s_r" name="Authentification">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kEE50j-FmvwMQxQkXFjK-0" />
         <mxCell id="kEE50j-FmvwMQxQkXFjK-1" parent="kEE50j-FmvwMQxQkXFjK-0" />
@@ -546,7 +546,7 @@
         <mxCell id="UVdhc_G0UXETGzi8-Osv-18" value="ALT" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="kEE50j-FmvwMQxQkXFjK-1" vertex="1">
           <mxGeometry x="50" y="290" width="550" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="UVdhc_G0UXETGzi8-Osv-19" value="7 Envoie&amp;nbsp; des information" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;" parent="kEE50j-FmvwMQxQkXFjK-1" edge="1">
+        <mxCell id="UVdhc_G0UXETGzi8-Osv-19" value="7 Message de retour" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;" parent="kEE50j-FmvwMQxQkXFjK-1" edge="1">
           <mxGeometry x="0.1549" relative="1" as="geometry">
             <mxPoint x="484.5" y="353" as="sourcePoint" />
             <mxPoint x="294.5" y="353" as="targetPoint" />
@@ -631,7 +631,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eUb4AiREChGTSuMhlvUp" name="Ajouter de livres">
-    <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CkZDXd__DL19NyH7d1Hy-0" />
         <mxCell id="CkZDXd__DL19NyH7d1Hy-1" parent="CkZDXd__DL19NyH7d1Hy-0" />
@@ -745,8 +745,8 @@
         <mxCell id="Hut-_HFntukVggSoCLxe-29" value="nom Ajouter" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;fontSize=11;" parent="Hut-_HFntukVggSoCLxe-27" vertex="1">
           <mxGeometry y="103" width="530" height="8.24" as="geometry" />
         </mxCell>
-        <mxCell id="MtSSCni0Ej3gm5sBdxQL-1" value="7. Message de confirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="Hut-_HFntukVggSoCLxe-27" vertex="1">
-          <mxGeometry x="345" y="32.526315789473685" width="150" height="20" as="geometry" />
+        <mxCell id="MtSSCni0Ej3gm5sBdxQL-1" value="7. Message de retour" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="Hut-_HFntukVggSoCLxe-27" vertex="1">
+          <mxGeometry x="360" y="32.526315789473685" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vpkUtOtWHPzEQAY3y8hB-0" value="Ajout effectuer avec succès" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="Hut-_HFntukVggSoCLxe-27" vertex="1">
           <mxGeometry x="135" y="56.52578947368421" width="150" height="20" as="geometry" />
@@ -785,7 +785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Rp83OrqaAuYfuTgc8CGj" name="Modifier un livre">
-    <mxGraphModel dx="849" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jpOOcEGLBYu0j73fR9cH-0" />
         <mxCell id="jpOOcEGLBYu0j73fR9cH-1" parent="jpOOcEGLBYu0j73fR9cH-0" />
@@ -928,7 +928,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ic4bhdaogLrd-CCU8MOS" name="Recfercher Document">
-    <mxGraphModel dx="975" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SgEFic7Vw_e75q9YWRES-0" />
         <mxCell id="SgEFic7Vw_e75q9YWRES-1" parent="SgEFic7Vw_e75q9YWRES-0" />
@@ -998,7 +998,7 @@
             <mxPoint x="647" y="297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SgEFic7Vw_e75q9YWRES-28" value="5 Envoie du résultat" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;exitX=0.75;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" parent="SgEFic7Vw_e75q9YWRES-1" edge="1">
+        <mxCell id="SgEFic7Vw_e75q9YWRES-28" value="5 Message de retour" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;exitX=0.75;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" parent="SgEFic7Vw_e75q9YWRES-1" edge="1">
           <mxGeometry x="0.0389" relative="1" as="geometry">
             <mxPoint x="655" y="370" as="sourcePoint" />
             <mxPoint x="410.5" y="370" as="targetPoint" />
@@ -1039,7 +1039,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DnzW9jvknJKVxAKCAnpG" name="Afficher Nombres visiteurs">
-    <mxGraphModel dx="975" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kRRxzdswhvo8ArXT8h3N-0" />
         <mxCell id="kRRxzdswhvo8ArXT8h3N-1" parent="kRRxzdswhvo8ArXT8h3N-0" />
@@ -1094,7 +1094,7 @@
             <mxPoint x="529.5" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O_3YTGYSy3-w8akC3NLw-11" value="4 Envoie informations" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" parent="kRRxzdswhvo8ArXT8h3N-1" source="O_3YTGYSy3-w8akC3NLw-9" target="kRRxzdswhvo8ArXT8h3N-3" edge="1">
+        <mxCell id="O_3YTGYSy3-w8akC3NLw-11" value="4 Message de retour" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" parent="kRRxzdswhvo8ArXT8h3N-1" source="O_3YTGYSy3-w8akC3NLw-9" target="kRRxzdswhvo8ArXT8h3N-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="396" as="targetPoint" />
           </mxGeometry>
@@ -1109,7 +1109,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZMP8K5DQwgJQZkQVJiQ6" name="Rechercher livre">
-    <mxGraphModel dx="975" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="09jC_oco8F9_qfx0zV9m-0" />
         <mxCell id="09jC_oco8F9_qfx0zV9m-1" parent="09jC_oco8F9_qfx0zV9m-0" />
@@ -1181,7 +1181,7 @@
             <mxPoint x="647" y="297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2eDlCzq9NCN7B8gp6dIq-17" value="5 Envoie du résultat" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;exitX=0.75;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" parent="09jC_oco8F9_qfx0zV9m-1" edge="1">
+        <mxCell id="2eDlCzq9NCN7B8gp6dIq-17" value="5 Message de retour" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;exitX=0.75;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" parent="09jC_oco8F9_qfx0zV9m-1" edge="1">
           <mxGeometry x="0.0389" relative="1" as="geometry">
             <mxPoint x="655" y="370" as="sourcePoint" />
             <mxPoint x="410.5" y="370" as="targetPoint" />
