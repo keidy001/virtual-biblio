@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T13:21:22.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="388tEbTGaOmGz1h3P53c" version="16.6.4" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-02-27T13:24:27.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="QMI-d9fsVVwlfT37Svtz" version="16.6.4" type="github" pages="18">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -751,7 +751,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eUb4AiREChGTSuMhlvUp" name="Ajouter de livres">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CkZDXd__DL19NyH7d1Hy-0" />
         <mxCell id="CkZDXd__DL19NyH7d1Hy-1" parent="CkZDXd__DL19NyH7d1Hy-0" />
