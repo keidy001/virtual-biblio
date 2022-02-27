@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T13:09:05.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="yanWbrabhwnL-sEoDDxB" version="16.6.4" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-02-27T13:09:46.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="gZxjhzmxUx352w6RuVg2" version="16.6.4" type="github" pages="18">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,7 +226,7 @@
           <mxGeometry x="80" y="220" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3SVzgNHvqBdpkcB7fKs5-3" value="Gérer son panier" style="shape=umlFrame;whiteSpace=wrap;html=1;width=140;height=40;" parent="3SVzgNHvqBdpkcB7fKs5-1" vertex="1">
-          <mxGeometry x="200" y="70" width="500" height="350" as="geometry" />
+          <mxGeometry x="200" y="70" width="500" height="250" as="geometry" />
         </mxCell>
         <mxCell id="3SVzgNHvqBdpkcB7fKs5-4" value="Ajouter des livres" style="ellipse;whiteSpace=wrap;html=1;" parent="3SVzgNHvqBdpkcB7fKs5-1" vertex="1">
           <mxGeometry x="260" y="120" width="140" height="50" as="geometry" />
