@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T08:55:38.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="KeXGN5S2MFi_TfKbvyzH" version="16.5.3" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-03-25T15:31:08.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="BxU4pieQ7XNSuDySK0zG" version="17.1.2" type="github" pages="18">
   <diagram id="Ol1sK2MXSykWtN8p81MU" name="Gestion livre">
-    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,14 +93,14 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Gestion categorie" id="PV1J5jrfQJa6z5AYVvXr">
-    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Kg7nUL7G226LHBn5jkbm-0" />
         <mxCell id="Kg7nUL7G226LHBn5jkbm-1" parent="Kg7nUL7G226LHBn5jkbm-0" />
         <mxCell id="Kg7nUL7G226LHBn5jkbm-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=default;gradientColor=none;" parent="Kg7nUL7G226LHBn5jkbm-1" vertex="1">
           <mxGeometry x="10" y="314" width="50" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="Kg7nUL7G226LHBn5jkbm-3" value="Gestion de categorie" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=default;gradientColor=none;width=110;height=30;" parent="Kg7nUL7G226LHBn5jkbm-1" vertex="1">
+        <mxCell id="Kg7nUL7G226LHBn5jkbm-3" value="Gestion de catégorie" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=default;gradientColor=none;width=110;height=30;" parent="Kg7nUL7G226LHBn5jkbm-1" vertex="1">
           <mxGeometry x="180" y="150" width="590" height="330" as="geometry" />
         </mxCell>
         <mxCell id="Kg7nUL7G226LHBn5jkbm-4" value="Ajouter catégorie" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;gradientColor=none;" parent="Kg7nUL7G226LHBn5jkbm-1" vertex="1">
@@ -171,7 +171,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="boD-_mkQj5iGZCtVcoFL" name="Gestion des utilisateus">
-    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="onjIotjIPkcrtbH41ogr-0" />
         <mxCell id="onjIotjIPkcrtbH41ogr-1" parent="onjIotjIPkcrtbH41ogr-0" />
@@ -218,7 +218,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ps5slC9u4Xr7oHksv9Us" name="Gérer sont panier">
-    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3SVzgNHvqBdpkcB7fKs5-0" />
         <mxCell id="3SVzgNHvqBdpkcB7fKs5-1" parent="3SVzgNHvqBdpkcB7fKs5-0" />
@@ -290,7 +290,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uu8xJiqCrF2lxJOAS2xF" name="Profile">
-    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ojXqoX_SzWD1fo40XAp5-0" />
         <mxCell id="ojXqoX_SzWD1fo40XAp5-1" parent="ojXqoX_SzWD1fo40XAp5-0" />
@@ -376,7 +376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iI7A_aqlJGiSVeUK1Wx8" name="livre">
-    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bhY5xX0Ac1MCx8FEVOBW-0" />
         <mxCell id="bhY5xX0Ac1MCx8FEVOBW-1" parent="bhY5xX0Ac1MCx8FEVOBW-0" />
@@ -453,7 +453,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2KlWVGTux-m39z74935y" name="Diagramme de classe">
-    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="O64TJJkuh2EhdNPFUlf2-0" />
         <mxCell id="O64TJJkuh2EhdNPFUlf2-1" parent="O64TJJkuh2EhdNPFUlf2-0" />
@@ -620,7 +620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p03_-isMEnIX4oiu-s_r" name="Authentification">
-    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kEE50j-FmvwMQxQkXFjK-0" />
         <mxCell id="kEE50j-FmvwMQxQkXFjK-1" parent="kEE50j-FmvwMQxQkXFjK-0" />
@@ -680,7 +680,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UVdhc_G0UXETGzi8-Osv-23" value="10 Identifiant incorrects" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;" parent="kEE50j-FmvwMQxQkXFjK-1" edge="1">
+        <mxCell id="UVdhc_G0UXETGzi8-Osv-23" value="10 Identifiants incorrects" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;" parent="kEE50j-FmvwMQxQkXFjK-1" edge="1">
           <mxGeometry x="0.1549" relative="1" as="geometry">
             <mxPoint x="294.5" y="464" as="sourcePoint" />
             <mxPoint x="89.66666666666663" y="464" as="targetPoint" />
@@ -726,11 +726,11 @@
             <mxPoint x="299" y="193" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9dXOcJDtuMYt9YcC0aqt-7" value="[Information correctes]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="kEE50j-FmvwMQxQkXFjK-1" vertex="1">
-          <mxGeometry x="110" y="318" width="120" height="20" as="geometry" />
+        <mxCell id="9dXOcJDtuMYt9YcC0aqt-7" value="[Informations correctes]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="kEE50j-FmvwMQxQkXFjK-1" vertex="1">
+          <mxGeometry x="105" y="318" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9dXOcJDtuMYt9YcC0aqt-8" value="[Information incorrectes]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="kEE50j-FmvwMQxQkXFjK-1" vertex="1">
-          <mxGeometry x="90" y="412" width="130" height="20" as="geometry" />
+        <mxCell id="9dXOcJDtuMYt9YcC0aqt-8" value="[Informations incorrectes]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="kEE50j-FmvwMQxQkXFjK-1" vertex="1">
+          <mxGeometry x="85" y="412" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9dXOcJDtuMYt9YcC0aqt-9" value="" style="shape=umlDestroy;fontSize=11;" parent="kEE50j-FmvwMQxQkXFjK-1" vertex="1">
           <mxGeometry x="470" y="526" width="30" height="30" as="geometry" />
